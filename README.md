@@ -12,6 +12,9 @@ This project demonstrates how to build a fully functional cloud monitoring pipel
 
 ## 🏗️ Architecture
 
+<img width="589" alt="architecture" src="https://github.com/user-attachments/assets/719489af-b480-44dc-a5bd-5963afc7e173" />
+
+
 ```
 EC2 Instance (monitoring-server)
         │
@@ -44,6 +47,19 @@ S3 Bucket (Log Archive) ◄── Cron Job (Hourly Sync)
 | **SNS (Simple Notification Service)** | Sends email alerts when alarms are triggered |
 | **S3** | Archives log files with 30-day lifecycle management |
 | **IAM** | Manages access control with least-privilege roles and policies |
+
+---
+
+## 📸 Screenshots
+
+### Monitoring Dashboard
+<img width="1071" alt="monitoring-dashboard" src="https://github.com/user-attachments/assets/002c0b8d-4bf8-4ff9-b760-16670fa83be3" />
+
+### High CPU Alert
+<img width="842" alt="high-cpu-alert" src="https://github.com/user-attachments/assets/5db7bb20-9327-4616-af4e-ddb95e1f7e8c" />
+
+### CloudWatch Metrics
+<img width="1426" alt="cloudwatch-metrics" src="https://github.com/user-attachments/assets/3ac34086-29d0-4da8-a0b4-e1e412a8a456" />
 
 ---
 
@@ -162,9 +178,9 @@ aws-cloud-monitoring-system/
 ├── README.md
 ├── cloudwatch-agent-config.json
 └── screenshots/
-    ├── cloudwatch-dashboard.png
-    ├── high-cpu-alarm.png
-    ├── s3-logs.png
+    ├── architecture.png
+    ├── monitoring-dashboard.png
+    ├── high-cpu-alert.png
     └── cloudwatch-metrics.png
 ```
 
@@ -174,4 +190,4 @@ aws-cloud-monitoring-system/
 
 **Shahed Alhanbali**  
 Cloud & DevOps Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/alhanbali/) | [GitHub](https://github.com/salhanbali?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/alhanbali/) | [GitHub](https://github.com/salhanbali)

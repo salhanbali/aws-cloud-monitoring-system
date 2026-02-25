@@ -149,7 +149,7 @@ A live dashboard was created with the following widgets:
 
 ---
 
-## 💡 Key Learnings
+## 💡 Engineering Insights
 
 - How to configure IAM roles to follow the principle of least privilege
 - How CloudWatch Agent bridges the gap between EC2 and CloudWatch for memory/disk metrics
@@ -182,6 +182,16 @@ aws-cloud-monitoring-system/
     ├── high-cpu-alert.png
     └── cloudwatch-metrics.png
 ```
+
+---
+
+## 🚀 Future Improvements
+
+- Add automated remediation using AWS Lambda
+- Integrate with Infrastructure as Code (Terraform/CDK)
+- Support multi-instance monitoring
+- Add centralized logging via OpenSearch
+- Implement Slack/Teams notifications
 
 ---
 

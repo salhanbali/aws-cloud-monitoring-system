@@ -1,6 +1,6 @@
 # AWS Cloud Monitoring & Logging System ☁️
 
-A production-style cloud monitoring and logging system built on AWS, designed to collect system metrics, automate alerts, and archive logs — simulating real-world infrastructure monitoring.
+A production-style cloud monitoring and logging system built on AWS, designed to collect system metrics, automate alerts, and archive logs simulating real-world infrastructure monitoring.
 
 ---
 

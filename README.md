@@ -12,7 +12,6 @@ This project demonstrates how to build a fully functional cloud monitoring pipel
 
 ## 🏗️ Architecture
 
-<img width="589" alt="architecture" src="https://github.com/user-attachments/assets/719489af-b480-44dc-a5bd-5963afc7e173" />
 
 
 ```

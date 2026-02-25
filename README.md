@@ -172,6 +172,6 @@ aws-cloud-monitoring-system/
 
 ## 👩‍💻 Author
 
-**Shahad Alhanbali**  
+**Shahed Alhanbali**  
 Cloud & DevOps Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/alhanbali/) | [GitHub](https://github.com/salhanbali)
+[LinkedIn](https://www.linkedin.com/in/alhanbali/) | [GitHub](https://github.com/salhanbal)
